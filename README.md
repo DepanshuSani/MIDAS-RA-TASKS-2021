@@ -3,7 +3,7 @@ These 3 problems were given as tasks for shortlisting the applicants for RA posi
 Applicants were asked to solve at least one of the tasks. <a href="https://github.com/DepanshuSani/MIDAS-RA-TASKS-2021/tree/main/Reports">Click here</a> to read the detailed report of all the given tasks.<br />
 
 ## Task 1
-This is a famous <a href="https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/overview"><strong>TensorFlow Speech Recognition Problem</strong></a> available on kaggle. The problem is to classify the audio samples of ~1 seconds each.<br />
+This is a famous <a href="https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/overview" target="_blank"><strong>TensorFlow Speech Recognition Problem</strong></a> available on kaggle. The problem is to classify the audio samples of ~1 seconds each.<br />
 
 Multiple experiments were done for the given task. Please refer to the <a href="https://github.com/DepanshuSani/MIDAS-RA-TASKS-2021/tree/main/Task%201">Task 1</a> directory.<br />
 Following setup is required in order to run the code:
